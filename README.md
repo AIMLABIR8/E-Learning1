@@ -15,13 +15,8 @@ An interactive and scalable E-Learning platform designed to make online educatio
 🔒 User authentication and role management
 
 🛠️ Tech Stack
-Frontend: React / Angular / Vue (specify your choice)
+Frontend: HTML, CSS, Javascript
 
-Backend: Node.js / Django / Laravel (specify your choice)
-
-Database: MongoDB / PostgreSQL / MySQL (specify your choice)
-
-Authentication: JWT / OAuth2
 
 🚀 Goal
 To provide an intuitive and powerful platform for remote learning, enabling learners and instructors to connect, share knowledge, and grow—anytime, anywhere.
