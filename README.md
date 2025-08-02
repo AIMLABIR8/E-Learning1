@@ -6,8 +6,6 @@ An interactive and scalable E-Learning platform designed to make online educatio
 
 🎥 Video lecture support
 
-📝 Quizzes and assessments
-
 📊 Progress tracking
 
 💬 Real-time discussion boards
